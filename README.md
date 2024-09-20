@@ -1,4 +1,4 @@
-# HR Data Analysis and Prediction
+# IBM HR Data Analysis and Prediction
 
 ## Overview
 
@@ -8,7 +8,7 @@ Through visualizations and descriptive statistics, the project aims to provide i
 
 ## Dataset
 
-The dataset is attached in a CSV file. It includes various attributes related to employee demographics, job roles, compensation, and attrition status.
+The dataset is attached in a CSV file- https://github.com/Akhila-V-Raichur/IBM-HR-Data-Analytics-using-SQL-and-python/blob/main/HR%20Data.csv. It includes various attributes related to employee demographics, job roles, compensation, and attrition status.
 
 ## Installation
 
